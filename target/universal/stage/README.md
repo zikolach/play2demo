@@ -1,5 +1,6 @@
 Play framework 2.X application on OpenShift Express
 ============================
+[![StatusCake](https://www.statuscake.com/App/button/index.php?Track=tyrnvc1FRX&Days=1&Design=1)](https://www.statuscake.com/?aff=27626)
 
 This git repository  will help you get up and running quickly with a Play Framework 2 application (including versions 2.1, 2.2 and 2.3) on OpenShift Express taking advantage of the do-it-yourself cartridge. To work within the constrained amount of memory available in the free versions of OpenShift, compilation takes place locally and is then deployed. For a different approach from that taken here see http://misto.ch/play-on-openshift/
 
