@@ -24,6 +24,7 @@ function kill_app {
                         popd > /dev/null
                         exit 0
                 fi
+        rm -f "$OPENSHIFT_REPO_DIR/target/universal/stage/RUNNING_PID"
         done
 }
 
